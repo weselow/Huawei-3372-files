@@ -1,0 +1,8 @@
+// WinHex license file
+
+Name: DimitarSerg
+Addr: ds@mail.ua
+Addr: Ukraine
+Data: 1E3E8DA6404FC153D720C5CEE04C19C4
+Data: B4811037BF76A754251481ABE7F08724
+Cksm: 5B2EA00F
